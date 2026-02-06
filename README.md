@@ -10,21 +10,21 @@
 
 **BANKING-ANALITYCS-PROJECT**
 │
-├── **data**
+├── *DATA*
 │   ├── clientes.csv
 │   ├── cuentas.csv
 │   ├── transacciones.csv
 │   └── prestamos.csv
 │
-├── **sql**
+├── *SQL*
 │   ├── clean_data.sql
 │   ├── kpis.sql
 │   └── risk_analysis.sql
 │
-├── **notebooks**
+├── *NOTEBOOKS*
 │   └── data_generation.ipynb
 │
-├── **looker**
+├── *LOOKER*
 │   └── dashboard_screenshots.png
 │
 └── README.md
