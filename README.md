@@ -7,7 +7,7 @@ Interés en análisis cuantitativo, SQL, BI y modelado.
 - SQL (avanzado)
 - Python (pandas, numpy)
 - Looker / Google Sheets
-- Análisis financiero
+- Análisis estadístico / financiero
 
 ### Proyectos
 - Análisis financiero  
