@@ -4,8 +4,8 @@ Analista de datos orientado al sector financiero.
 Interés en análisis cuantitativo, SQL, BI y modelado.
 
 ### Habilidades
-- SQL (avanzado)
-- Python (pandas, numpy)
+- SQL
+- Python (pandas, numpy, matplotlib)
 - Looker / Google Sheets
 - Análisis estadístico / financiero
 
