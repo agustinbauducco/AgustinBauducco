@@ -6,7 +6,7 @@
 
 ### Proyects
  
-[Ver repositorio](https://github.com/agustinbauducco?tab=repositories)
+[View Repository](https://github.com/agustinbauducco?tab=repositories)
 
 ### Contact
 - LinkedIn: www.linkedin.com/in/agustin-bauducco
