@@ -1,13 +1,13 @@
-### Habilidades
+### Habilities
 - SQL
 - Looker / Google Sheets
-- Análisis estadístico / financiero
+- Statical and Financial Analysis
 - Python (pandas, numpy, matplotlib)
 
-### Proyectos
+### Proyects
  
 [Ver repositorio](https://github.com/agustinbauducco?tab=repositories)
 
-### Contacto
+### Contact
 - LinkedIn: www.linkedin.com/in/agustin-bauducco
 - Email: agustinbauducco@gmail.com
